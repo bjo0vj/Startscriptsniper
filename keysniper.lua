@@ -18,12 +18,12 @@ local Config = {
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
-    DiscordURL      = "https://discord.gg/kT55J724BK",
+    DiscordURL      = "https://discord.gg/yourcode",
     
     ShowInstagram   = false,
-    InstagramURL    = "https://www.instagram.com/oyb0i/",
-    
-    ShowYoutube     = false,
+    InstagramURL    = "https://instagram.com/your.name",
+
+    ShowYoutube     = true,
     YoutubeURL      = "https://www.youtube.com/@TDF-YD",
 
     -- [5] File System
@@ -35,7 +35,7 @@ local Config = {
 
     -- [7] Hub Information & UI Text
     HubName         = "Phathud", -- The main title shown at the top of the GUI
-    HubDescription  = "Thank you for use :) -- The text shown below the title
+    HubDescription  = "Thank you for use :)", -- The text shown below the title
 }
 
 -------------------------------------------------------------------------------
