@@ -17,7 +17,13 @@ local Config = {
     MainScriptURL   = "https://raw.githubusercontent.com/bjo0vj/scriptsniper/refs/heads/main/scriptsniper.lua", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
-  
+    ShowDiscord     = false,
+    DiscordURL      = "https://discord.gg/kT55J724BK",
+    
+    ShowInstagram   = false,
+    InstagramURL    = "https://www.instagram.com/oyb0i/",
+    
+    ShowYoutube     = false,
     YoutubeURL      = "https://www.youtube.com/@TDF-YD",
 
     -- [5] File System
